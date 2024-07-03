@@ -1,0 +1,77 @@
+
+
+19:43:31.918 - Client Name: Alex
+19:43:31.918 - Client Port#: 60705
+19:43:31.918 - Message From Client: Name - Alex
+19:43:31.918 - Message to Client: Connection Established, Hello Alex
+
+19:43:34.420 - Client Name: Vaffa
+19:43:34.420 - Client Port#: 60706
+19:43:34.420 - Message From Client: Name - Vaffa
+19:43:34.420 - Message to Client: Connection Established, Hello Vaffa
+
+19:43:35.387 - Client Name: Vaffa
+19:43:35.387 - Client Port#: 60706
+19:43:35.387 - Message From Client: 18 + 42 + 52 + 15
+19:43:35.387 - Message to Client: Answer: 127
+
+19:43:35.578 - Client Name: Lizan
+19:43:35.578 - Client Port#: 60707
+19:43:35.578 - Message From Client: Name - Lizan
+19:43:35.578 - Message to Client: Connection Established, Hello Lizan
+
+19:43:35.598 - Client Name: Lizan
+19:43:35.598 - Client Port#: 60707
+19:43:35.598 - Message From Client: 38 + 61 * 42 + 12
+19:43:35.598 - Message to Client: Answer: 4170
+
+19:43:35.598 - Client Name: Lizan
+19:43:35.598 - Client Port#: 60707
+19:43:35.598 - Message From Client: 0 - 40 + 90
+19:43:35.598 - Message to Client: Answer: 50
+
+19:43:35.598 - Client Name: Lizan
+19:43:35.598 - Client Port#: 60707
+19:43:35.598 - Message From Client: 6 + 22 + 94 - 21
+19:43:35.598 - Message to Client: Answer: 101
+
+19:43:35.938 - Client Name: Alex
+19:43:35.938 - Client Port#: 60705
+19:43:35.938 - Message From Client: 54 + 23 * 25 - 62
+19:43:35.938 - Message to Client: Answer: 1863
+
+19:43:36.587 - Client Name: Vaffa
+19:43:36.587 - Client Port#: 60706
+19:43:36.587 - Message From Client: 48 - 51 - 13 * 8
+19:43:36.587 - Message to Client: Answer: -128
+
+19:43:36.940 - Client Name: Alex
+19:43:36.940 - Client Port#: 60705
+19:43:36.940 - Message From Client: 81 - 59 - 29
+19:43:36.940 - Message to Client: Answer: -7
+
+19:43:37.602 - Client Name: Vaffa
+19:43:37.602 - Client Port#: 60706
+19:43:37.602 - Message From Client: 81 + 14 * 60 - 85
+19:43:37.602 - Message to Client: Answer: 5615
+
+19:43:37.605 - Client Name: Lizan
+19:43:37.605 - Client Port#: 60707
+19:43:37.605 - Message From Client: exit
+19:43:37.605 - Message to Client: Close Connection Request Received by Server; Time Connected: 2.268 seconds
+
+19:43:38.949 - Client Name: Alex
+19:43:38.949 - Client Port#: 60705
+19:43:38.949 - Message From Client: 50 - 74 - 19 + 36
+19:43:38.949 - Message to Client: Answer: -7
+
+19:43:39.694 - Client Name: Vaffa
+19:43:39.694 - Client Port#: 60706
+19:43:39.694 - Message From Client: exit
+19:43:39.694 - Message to Client: Close Connection Request Received by Server; Time Connected: 5.652 seconds
+
+19:43:40.959 - Client Name: Alex
+19:43:40.959 - Client Port#: 60705
+19:43:40.959 - Message From Client: exit
+19:43:40.959 - Message to Client: Close Connection Request Received by Server; Time Connected: 9.405 seconds
+19:43:40.959 - All Connections have been closed, Terminating Server Instance..
